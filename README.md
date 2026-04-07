@@ -4,7 +4,7 @@ A zero-dependency, one-line-of-code virtual background camera library for the br
 
 Open your webcam, replace the background with blur / solid color / custom image, and take photos — all from a single `<script>` tag.
 
-**Powered by [MediaPipe Selfie Segmentation](https://google.github.io/mediapipe/solutions/selfie_segmentation.html) (auto-loaded).**
+**Powered by MediaPipe Selfie Segmentation.**
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
