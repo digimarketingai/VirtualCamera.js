@@ -39,7 +39,7 @@ Open your webcam, replace the background with blur / solid color / custom image,
 
   <div id="camera"></div>
 
-  <script src="https://digimarketingai.github.io/virtual-camera/virtual-camera.js"></script>
+  <script src="https://digimarketingai.github.io/VirtualCamera.js/virtual-camera.js"></script>
   <script>
     VirtualCamera.mount('#camera');
   </script>
